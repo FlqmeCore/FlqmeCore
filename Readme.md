@@ -15,8 +15,7 @@ Profile Views
 </p>
 Top Sponsors
 <p align="center">
-  <b>1. SponsorName1 ($12 per year)</b><br>
-  <b>2. SponsorName2 ($10 one time)</b>
+
 </p>
 <p align="center">
   <a href="https://github.com/sponsors/FlqmeCore"><img alt="sponsors" title="All Sponsors" src="https://img.shields.io/badge/-All%20Sponsors-FD9494?style=for-the-badge&logo=GitHub&logoColor=black"/></a>
