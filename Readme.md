@@ -13,7 +13,6 @@ Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FlqmeCore&style=for-the-badge&color=brightgreen">
 </p>
-Top Sponsors
 <p align="center">
 
 </p>
