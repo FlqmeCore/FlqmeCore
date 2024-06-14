@@ -49,7 +49,5 @@ Activity On GitHub
 </p>
 Top Repositories
 <p align="left">
-  <a href="https://github.com/FlqmeCore/Project1"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FlqmeCore&repo=Project1&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/FlqmeCore/Project2"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FlqmeCore&repo=Project2&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/FlqmeCore/Project3"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FlqmeCore&repo=Project3&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+  No top repositories yet.
 </p>
