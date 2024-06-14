@@ -21,7 +21,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Working%20on%20Eaglercraft%20Clients;Creating%20Resources;Learning%20New%20Skills&font=Fira%20Code&center=true&width=700&height=45&color=00FF00&vCenter=true&pause=1000&size=25" />
 </p>
-Languages and Tools
 <p align="center">
   <a href="https://github.com/FlqmeCore"><img src="https://skillicons.dev/icons?i=vscode,github,css,html,js"></a>
 </p>
