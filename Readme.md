@@ -37,7 +37,6 @@ Languages and Tools
     <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=FlqmeCore&theme=dark&hide_border=true&stroke=f53b3b"/>
   </a>
 </p>
-Top Repositories
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=No%20top%20repositories%20yet;&font=Fira%20Code&center=true&width=700&height=45&color=FF0000&vCenter=true&pause=1000&size=25" />
 </p>
