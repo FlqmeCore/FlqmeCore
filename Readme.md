@@ -29,7 +29,6 @@ Languages and Tools
 <p align="center">
   <a href="https://github.com/FlqmeCore"><img src="https://skillicons.dev/icons?i=vscode,github,css,html,js"></a>
 </p>
-My Stats:
 <p align="center">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=FlqmeCore&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
