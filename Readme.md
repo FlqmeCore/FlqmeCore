@@ -18,13 +18,9 @@
 <p align="center">
   <a href="https://github.com/sponsors/FlqmeCore"><img alt="sponsors" title="All Sponsors" src="https://img.shields.io/badge/-All%20Sponsors-FD9494?style=for-the-badge&logo=GitHub&logoColor=black"/></a>
 </p>
-What I'm Doing
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Working%20on%20Eaglercraft%20Clients;Creating%20Resources;Learning%20New%20Skills&font=Fira%20Code&center=true&width=700&height=45&color=00FF00&vCenter=true&pause=1000&size=25" />
 </p>
-- 🔭 Working on Eaglercraft Clients and Resources<br>
-- 🌱 Learning new development skills<br>
-- 📫 How to contact me: flameclient1.0@gmail.com
 Languages and Tools
 <p align="center">
   <a href="https://github.com/FlqmeCore"><img src="https://skillicons.dev/icons?i=vscode,github,css,html,js"></a>
